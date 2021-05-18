@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+.header{
+    background-color: red; height: 300px;text-align: center;
+}
+.header h1{
+    color: white;
+}
+.banner{
+    background-color: teal;height: 250px;text-align: center;
+}
+.banner h1{
+    color: black;
+}
+.left_content{
+    background-color: blue;height: 200px;text-align: center;width: 50%;float: left;
+}
+.left_content h1{
+    color: cornsilk;
+}
+.right_content{
+    background-color: darkblue;height: 200px;text-align: center;width: 50%;float: right;
+}
+.content{
+    overflow: hidden;
+}
+.item_one{
+    background-color: darkcyan;height: 100px;text-align: center;width: 33.33%;float: left;
+}
+.item_two{
+    background-color: darkgoldenrod;height: 100px;text-align: center;width: 33.33%;float: right;
+}
+.item_three{
+    background-color: darkgreen;height: 100px;text-align: center;width: 33.33%;float: right;
+}
+.item{
+    overflow: hidden;
+}
+.footer{
+    background-color: darkred;height: 100px;text-align: center;
+}
